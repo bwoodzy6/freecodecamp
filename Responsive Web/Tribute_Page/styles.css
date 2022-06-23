@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#img-div {
+    width: 100%;
+    background-color: lightgray;
+    padding: 20px;
+}
+
+#image {
+    width: 80%;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+    /* aspect-ratio: 4/3; */
+}
